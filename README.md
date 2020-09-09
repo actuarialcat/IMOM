@@ -11,7 +11,7 @@ This article also attempts to extend the strategy by using Fama-French five-fact
 
 The anaylst is based on US common stock data from 1965 to 2019 on CRSP.
 
-First, the table shows the result of strategy benchmarked against the 5-factor model for in-sample data. It shows that the strategy generates a sognificantly positive alpha, which means the it
+First, the table shows the result of strategy benchmarked against the 5-factor model for in-sample data. It shows that the strategy generates a signficantly positive alpha, which means the it can be used to beat the market.
 
 <img src="./Pictures/IMOM%20Factors.png" height=350>
 
