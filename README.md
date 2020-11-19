@@ -6,6 +6,9 @@ The idiosyncratic momentum  is superior to traditional momentum only for in-samp
 
 This article also attempts to extend the strategy by using Fama-French five-factor model to produce idiosyncratic momentum. However, it was discovered that this method is inferior to the idiosyncratic momentum produced by Chaves.
 
+Links:
+- [Full article](https://actuarialcat.github.io/IMOM/Replication%20Study%20on%20Idiosyncratic%20Momentum%20Strategy.pdf)
+- [Code in jupyter notebook](./FINA_4359_Project_Final.ipynb)
 
 ## Highlights
 
