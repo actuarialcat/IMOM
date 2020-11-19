@@ -26,7 +26,7 @@ Thridly, the project also attempts to improve the strategy by using residuals fr
 
 ## What's More
 
-For more detials, please see the [full article](./Replication%20Study%20on%20Idiosyncratic%20Momentum%20Strategy.pdf).
+For more detials, please see the [full article](https://actuarialcat.github.io/IMOM/Replication%20Study%20on%20Idiosyncratic%20Momentum%20Strategy.pdf).
 
 Codes are in the [jupyter notebook](./FINA_4359_Project_Final.ipynb)
 
