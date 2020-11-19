@@ -31,7 +31,7 @@ For more detials, please see the [full article](https://actuarialcat.github.io/I
 Codes are in the [jupyter notebook](./FINA_4359_Project_Final.ipynb)
 
 
-### Github Repository
+## Github Repository
 
 [Github Repository](https://github.com/actuarialcat/IMOM)
 
